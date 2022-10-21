@@ -111,7 +111,7 @@ const NavMenu = styled.div`
         }
 
         span{
-            color: rgb (249, 249, 249);
+            color: rgb(249, 249, 249);
             font-size: 16px; 
             letter-spacing: 1.42px;
             margin-top: 3px;
